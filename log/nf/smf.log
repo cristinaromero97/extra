@@ -1,0 +1,88 @@
+time="2021-05-20T15:19:43Z" level=info msg="SMF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T14:48:05Z\n\tcommit hash:     +04c01ec\n\tcommit time:     2021-01-30T17:01:30Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=SMF
+time="2021-05-20T15:19:43Z" level=error msg="yaml: unmarshal errors:\n  line 6: cannot unmarshal !!map into []*factory.UERoutingInfo" category=CFG component=SMF
+time="2021-05-20T15:19:43Z" level=error msg="SMF Run error: Failed to initialize !!" category=App component=SMF
+time="2021-05-20T15:22:32Z" level=info msg="SMF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T14:48:05Z\n\tcommit hash:     +04c01ec\n\tcommit time:     2021-01-30T17:01:30Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=SMF
+time="2021-05-20T15:22:32Z" level=error msg="yaml: unmarshal errors:\n  line 6: cannot unmarshal !!map into []*factory.UERoutingInfo" category=CFG component=SMF
+time="2021-05-20T15:22:32Z" level=error msg="SMF Run error: Failed to initialize !!" category=App component=SMF
+time="2021-05-20T15:30:11Z" level=info msg="SMF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T14:48:05Z\n\tcommit hash:     +04c01ec\n\tcommit time:     2021-01-30T17:01:30Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=SMF
+time="2021-05-20T15:30:11Z" level=error msg="yaml: unmarshal errors:\n  line 6: cannot unmarshal !!map into []*factory.UERoutingInfo" category=CFG component=SMF
+time="2021-05-20T15:30:11Z" level=error msg="SMF Run error: Failed to initialize !!" category=App component=SMF
+time="2021-05-20T15:33:04Z" level=info msg="SMF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T14:48:05Z\n\tcommit hash:     +04c01ec\n\tcommit time:     2021-01-30T17:01:30Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=SMF
+time="2021-05-20T15:33:04Z" level=error msg="yaml: unmarshal errors:\n  line 6: cannot unmarshal !!map into []*factory.UERoutingInfo" category=CFG component=SMF
+time="2021-05-20T15:33:04Z" level=error msg="SMF Run error: Failed to initialize !!" category=App component=SMF
+time="2021-05-20T15:34:20Z" level=info msg="SMF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T15:33:40Z\n\tcommit hash:     3437241a\n\tcommit time:     2021-03-25T20:31:42Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=SMF
+time="2021-05-20T15:34:20Z" level=info msg="SMF Log level is set to [info] level" category=Init component=SMF
+time="2021-05-20T15:34:20Z" level=info msg="SMF config version [1.0.0]" category=CFG component=SMF
+time="2021-05-20T15:34:20Z" level=info msg="UE-Routing config version [1.0.0]" category=CFG component=SMF
+time="2021-05-20T15:34:20Z" level=info msg="smfconfig Info: Version[1.0.0] Description[XXXSMF initial local configuration]" category=CTX component=SMF
+time="2021-05-20T15:34:20Z" level=info msg="Endpoints: [192.168.56.107]" category=CTX component=SMF
+time="2021-05-20T15:34:20Z" level=info msg="Endpoints: [192.168.56.108]" category=CTX component=SMF
+time="2021-05-20T15:34:20Z" level=info msg="Server started" category=Init component=SMF
+time="2021-05-20T15:34:20Z" level=info msg="SMF Registration to NRF {d097bbf9-7a07-4b0b-892f-6eb7b9344a3a SMF REGISTERED 0 0xc0002f3dc0 0xc0002f3e00 [] []   [127.0.0.2] [] <nil> [] [] <nil> 0 0 0  <nil> <nil> <nil> <nil> 0xc0002b7180 <nil> <nil> <nil> <nil> <nil> map[] <nil> false 0xc0002f3c40 false false []}" category=Init component=SMF
+time="2021-05-20T15:34:20Z" level=info msg="Listen on 192.168.56.109:8805" category=PFCP component=SMF
+time="2021-05-20T15:34:20Z" level=info msg="Send PFCP Association Request to UPF[192.168.56.107]\n" category=App component=SMF
+time="2021-05-20T15:34:20Z" level=info msg="Send PFCP Association Request to UPF[192.168.56.108]\n" category=App component=SMF
+time="2021-05-20T15:34:20Z" level=info msg="In HandlePfcpAssociationSetupResponse" category=PFCP component=SMF
+time="2021-05-20T15:34:20Z" level=info msg="Handle PFCP Association Setup Response with NodeID[192.168.56.108]" category=PFCP component=SMF
+time="2021-05-20T15:34:20Z" level=info msg="UPF(192.168.56.108)[ims] setup association" category=PFCP component=SMF
+time="2021-05-20T15:34:20Z" level=info msg="In HandlePfcpAssociationSetupResponse" category=PFCP component=SMF
+time="2021-05-20T15:34:20Z" level=info msg="Handle PFCP Association Setup Response with NodeID[192.168.56.107]" category=PFCP component=SMF
+time="2021-05-20T15:34:20Z" level=info msg="UPF(192.168.56.107)[internet] setup association" category=PFCP component=SMF
+time="2021-05-20T15:37:15Z" level=info msg="Terminating SMF..." category=Init component=SMF
+time="2021-05-20T15:37:15Z" level=info msg="Send Deregister NFInstance" category=Consumer component=SMF
+time="2021-05-20T15:37:16Z" level=info msg="Deregister from NRF successfully" category=Init component=SMF
+time="2021-05-20T15:37:33Z" level=info msg="SMF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T15:33:40Z\n\tcommit hash:     3437241a\n\tcommit time:     2021-03-25T20:31:42Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=SMF
+time="2021-05-20T15:37:33Z" level=info msg="SMF Log level is set to [info] level" category=Init component=SMF
+time="2021-05-20T15:37:33Z" level=info msg="SMF config version [1.0.0]" category=CFG component=SMF
+time="2021-05-20T15:37:33Z" level=info msg="UE-Routing config version [1.0.0]" category=CFG component=SMF
+time="2021-05-20T15:37:33Z" level=info msg="smfconfig Info: Version[1.0.0] Description[XXXSMF initial local configuration]" category=CTX component=SMF
+time="2021-05-20T15:37:33Z" level=info msg="Endpoints: [192.168.56.107]" category=CTX component=SMF
+time="2021-05-20T15:37:33Z" level=info msg="Endpoints: [192.168.56.108]" category=CTX component=SMF
+time="2021-05-20T15:37:33Z" level=info msg="Server started" category=Init component=SMF
+time="2021-05-20T15:37:33Z" level=info msg="SMF Registration to NRF {4fadb0f7-1b90-4a56-848c-29ee3ea69199 SMF REGISTERED 0 0xc0002f1d80 0xc0002f1dc0 [] []   [127.0.0.2] [] <nil> [] [] <nil> 0 0 0  <nil> <nil> <nil> <nil> 0xc0002b5180 <nil> <nil> <nil> <nil> <nil> map[] <nil> false 0xc0002f1c00 false false []}" category=Init component=SMF
+time="2021-05-20T15:37:33Z" level=info msg="Listen on 192.168.56.109:8805" category=PFCP component=SMF
+time="2021-05-20T15:37:33Z" level=info msg="Send PFCP Association Request to UPF[192.168.56.107]\n" category=App component=SMF
+time="2021-05-20T15:37:33Z" level=info msg="Send PFCP Association Request to UPF[192.168.56.108]\n" category=App component=SMF
+time="2021-05-20T15:37:33Z" level=info msg="In HandlePfcpAssociationSetupResponse" category=PFCP component=SMF
+time="2021-05-20T15:37:33Z" level=info msg="Handle PFCP Association Setup Response with NodeID[192.168.56.107]" category=PFCP component=SMF
+time="2021-05-20T15:37:33Z" level=info msg="UPF(192.168.56.107)[internet] setup association" category=PFCP component=SMF
+time="2021-05-20T15:37:33Z" level=info msg="In HandlePfcpAssociationSetupResponse" category=PFCP component=SMF
+time="2021-05-20T15:37:33Z" level=info msg="Handle PFCP Association Setup Response with NodeID[192.168.56.108]" category=PFCP component=SMF
+time="2021-05-20T15:37:33Z" level=info msg="UPF(192.168.56.108)[ims] setup association" category=PFCP component=SMF
+time="2021-05-20T15:48:49Z" level=info msg="Terminating SMF..." category=Init component=SMF
+time="2021-05-20T15:48:49Z" level=info msg="Send Deregister NFInstance" category=Consumer component=SMF
+time="2021-05-20T15:48:50Z" level=info msg="Deregister from NRF successfully" category=Init component=SMF
+time="2021-05-20T15:54:01Z" level=info msg="SMF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T15:33:40Z\n\tcommit hash:     3437241a\n\tcommit time:     2021-03-25T20:31:42Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=SMF
+time="2021-05-20T15:54:01Z" level=info msg="SMF Log level is set to [info] level" category=Init component=SMF
+time="2021-05-20T15:54:01Z" level=info msg="SMF config version [1.0.0]" category=CFG component=SMF
+time="2021-05-20T15:54:01Z" level=info msg="UE-Routing config version [1.0.0]" category=CFG component=SMF
+time="2021-05-20T15:54:01Z" level=info msg="smfconfig Info: Version[1.0.0] Description[XXXSMF initial local configuration]" category=CTX component=SMF
+time="2021-05-20T15:54:01Z" level=info msg="Endpoints: [192.168.56.107]" category=CTX component=SMF
+time="2021-05-20T15:54:01Z" level=info msg="Endpoints: [192.168.56.108]" category=CTX component=SMF
+time="2021-05-20T15:54:01Z" level=info msg="Server started" category=Init component=SMF
+time="2021-05-20T15:54:01Z" level=info msg="SMF Registration to NRF {0e805080-9e3c-4f06-9c6e-18212903505c SMF REGISTERED 0 0xc0002f1da0 0xc0002f1de0 [] []   [127.0.0.2] [] <nil> [] [] <nil> 0 0 0  <nil> <nil> <nil> <nil> 0xc0002b5180 <nil> <nil> <nil> <nil> <nil> map[] <nil> false 0xc0002f1c20 false false []}" category=Init component=SMF
+time="2021-05-20T15:54:01Z" level=info msg="Listen on 192.168.56.109:8805" category=PFCP component=SMF
+time="2021-05-20T15:54:01Z" level=info msg="Send PFCP Association Request to UPF[192.168.56.108]\n" category=App component=SMF
+time="2021-05-20T15:54:01Z" level=info msg="Send PFCP Association Request to UPF[192.168.56.107]\n" category=App component=SMF
+time="2021-05-20T15:54:01Z" level=info msg="In HandlePfcpAssociationSetupResponse" category=PFCP component=SMF
+time="2021-05-20T15:54:01Z" level=info msg="Handle PFCP Association Setup Response with NodeID[192.168.56.107]" category=PFCP component=SMF
+time="2021-05-20T15:54:01Z" level=info msg="UPF(192.168.56.107)[internet] setup association" category=PFCP component=SMF
+time="2021-05-20T15:54:01Z" level=info msg="In HandlePfcpAssociationSetupResponse" category=PFCP component=SMF
+time="2021-05-20T15:54:01Z" level=info msg="Handle PFCP Association Setup Response with NodeID[192.168.56.108]" category=PFCP component=SMF
+time="2021-05-20T15:54:01Z" level=info msg="UPF(192.168.56.108)[ims] setup association" category=PFCP component=SMF
+time="2021-05-20T15:55:23Z" level=info msg="Recieve Create SM Context Request" category=PduSess component=SMF
+time="2021-05-20T15:55:23Z" level=info msg="In HandlePDUSessionSMContextCreate" category=PduSess component=SMF
+time="2021-05-20T15:55:23Z" level=info msg="Send NF Discovery Serving UDM Successfully" category=PduSess component=SMF
+time="2021-05-20T15:55:23Z" level=info msg="Allocated UE IP address: 60.60.0.1" category=CTX component=SMF
+time="2021-05-20T15:55:23Z" level=info msg="Selected UPF: UPF1" category=CTX component=SMF
+time="2021-05-20T15:55:23Z" level=info msg="UE[imsi-208930000000003] PDUSessionID[1] IP[60.60.0.1]" category=PduSess component=SMF
+time="2021-05-20T15:55:23Z" level=info msg="In HandlePDUSessionEstablishmentRequest" category=GSM component=SMF
+time="2021-05-20T15:55:23Z" level=info msg="Protocol Configuration Options" category=GSM component=SMF
+time="2021-05-20T15:55:23Z" level=info msg="&{[0xc0003a0aa0 0xc0003a0ae0]}" category=GSM component=SMF
+time="2021-05-20T15:55:23Z" level=info msg="Didn't Implement container type IPAddressAllocationViaNASSignallingUL" category=GSM component=SMF
+time="2021-05-20T15:55:23Z" level=info msg="PCF Selection for SMContext SUPI[imsi-208930000000003] PDUSessionID[1]\n" category=PduSess component=SMF
+time="2021-05-20T15:55:23Z" level=info msg="SUPI[imsi-208930000000003] has no pre-config route" category=PduSess component=SMF
+time="2021-05-20T15:55:23Z" level=info msg="| 500 |       127.0.0.1 | POST    | /nsmf-pdusession/v1/sm-contexts | " category=GIN component=SMF
+time="2021-05-20T15:55:45Z" level=info msg="Terminating SMF..." category=Init component=SMF
+time="2021-05-20T15:55:45Z" level=info msg="Send Deregister NFInstance" category=Consumer component=SMF
+time="2021-05-20T15:55:46Z" level=info msg="Deregister from NRF successfully" category=Init component=SMF

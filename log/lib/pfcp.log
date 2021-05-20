@@ -1,0 +1,12 @@
+time="2021-05-20T15:34:20Z" level=info msg="set log level : info" category=PFCP component=LIB
+time="2021-05-20T15:34:20Z" level=info msg="set report call : false" category=PFCP component=LIB
+time="2021-05-20T15:34:20Z" level=info msg="Remove Request Transaction [2]\n" category=PFCP component=LIB
+time="2021-05-20T15:34:20Z" level=info msg="Remove Request Transaction [1]\n" category=PFCP component=LIB
+time="2021-05-20T15:37:33Z" level=info msg="set log level : info" category=PFCP component=LIB
+time="2021-05-20T15:37:33Z" level=info msg="set report call : false" category=PFCP component=LIB
+time="2021-05-20T15:37:33Z" level=info msg="Remove Request Transaction [2]\n" category=PFCP component=LIB
+time="2021-05-20T15:37:33Z" level=info msg="Remove Request Transaction [1]\n" category=PFCP component=LIB
+time="2021-05-20T15:54:01Z" level=info msg="set log level : info" category=PFCP component=LIB
+time="2021-05-20T15:54:01Z" level=info msg="set report call : false" category=PFCP component=LIB
+time="2021-05-20T15:54:01Z" level=info msg="Remove Request Transaction [2]\n" category=PFCP component=LIB
+time="2021-05-20T15:54:01Z" level=info msg="Remove Request Transaction [1]\n" category=PFCP component=LIB

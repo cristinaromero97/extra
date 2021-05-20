@@ -1,0 +1,85 @@
+time="2021-05-20T15:19:48Z" level=info msg="AUSF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T14:47:29Z\n\tcommit hash:     048e447a\n\tcommit time:     2021-01-30T15:36:12Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=AUSF
+time="2021-05-20T15:19:48Z" level=info msg="AUSF Log level is set to [info] level" category=Init component=AUSF
+time="2021-05-20T15:19:48Z" level=info msg="config version [1.0.0]" category=CFG component=AUSF
+time="2021-05-20T15:19:48Z" level=info msg="Server started" category=Init component=AUSF
+time="2021-05-20T15:19:48Z" level=info msg="ausfconfig Info: Version[1.0.0] Description[AUSF initial local configuration]\n" category=Init component=AUSF
+time="2021-05-20T15:21:49Z" level=info msg="Terminating AUSF..." category=Init component=AUSF
+time="2021-05-20T15:21:49Z" level=info msg="Send Deregister NFInstance" category=App component=AUSF
+time="2021-05-20T15:21:50Z" level=info msg="Deregister from NRF successfully" category=Init component=AUSF
+time="2021-05-20T15:21:50Z" level=info msg="AUSF terminated" category=Init component=AUSF
+time="2021-05-20T15:22:37Z" level=info msg="AUSF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T14:47:29Z\n\tcommit hash:     048e447a\n\tcommit time:     2021-01-30T15:36:12Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=AUSF
+time="2021-05-20T15:22:37Z" level=info msg="AUSF Log level is set to [info] level" category=Init component=AUSF
+time="2021-05-20T15:22:37Z" level=info msg="config version [1.0.0]" category=CFG component=AUSF
+time="2021-05-20T15:22:37Z" level=info msg="Server started" category=Init component=AUSF
+time="2021-05-20T15:22:37Z" level=info msg="ausfconfig Info: Version[1.0.0] Description[AUSF initial local configuration]\n" category=Init component=AUSF
+time="2021-05-20T15:23:38Z" level=info msg="Terminating AUSF..." category=Init component=AUSF
+time="2021-05-20T15:23:38Z" level=info msg="Send Deregister NFInstance" category=App component=AUSF
+time="2021-05-20T15:23:39Z" level=info msg="Deregister from NRF successfully" category=Init component=AUSF
+time="2021-05-20T15:23:39Z" level=info msg="AUSF terminated" category=Init component=AUSF
+time="2021-05-20T15:30:16Z" level=info msg="AUSF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T14:47:29Z\n\tcommit hash:     048e447a\n\tcommit time:     2021-01-30T15:36:12Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=AUSF
+time="2021-05-20T15:30:16Z" level=info msg="AUSF Log level is set to [info] level" category=Init component=AUSF
+time="2021-05-20T15:30:16Z" level=info msg="config version [1.0.0]" category=CFG component=AUSF
+time="2021-05-20T15:30:16Z" level=info msg="Server started" category=Init component=AUSF
+time="2021-05-20T15:30:16Z" level=info msg="ausfconfig Info: Version[1.0.0] Description[AUSF initial local configuration]\n" category=Init component=AUSF
+time="2021-05-20T15:30:27Z" level=info msg="Terminating AUSF..." category=Init component=AUSF
+time="2021-05-20T15:30:27Z" level=info msg="Send Deregister NFInstance" category=App component=AUSF
+time="2021-05-20T15:30:28Z" level=info msg="Deregister from NRF successfully" category=Init component=AUSF
+time="2021-05-20T15:30:28Z" level=info msg="AUSF terminated" category=Init component=AUSF
+time="2021-05-20T15:33:09Z" level=info msg="AUSF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T14:47:29Z\n\tcommit hash:     048e447a\n\tcommit time:     2021-01-30T15:36:12Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=AUSF
+time="2021-05-20T15:33:09Z" level=info msg="AUSF Log level is set to [info] level" category=Init component=AUSF
+time="2021-05-20T15:33:09Z" level=info msg="config version [1.0.0]" category=CFG component=AUSF
+time="2021-05-20T15:33:09Z" level=info msg="Server started" category=Init component=AUSF
+time="2021-05-20T15:33:09Z" level=info msg="ausfconfig Info: Version[1.0.0] Description[AUSF initial local configuration]\n" category=Init component=AUSF
+time="2021-05-20T15:33:19Z" level=info msg="Terminating AUSF..." category=Init component=AUSF
+time="2021-05-20T15:33:19Z" level=info msg="Send Deregister NFInstance" category=App component=AUSF
+time="2021-05-20T15:33:20Z" level=info msg="Deregister from NRF successfully" category=Init component=AUSF
+time="2021-05-20T15:33:20Z" level=info msg="AUSF terminated" category=Init component=AUSF
+time="2021-05-20T15:34:25Z" level=info msg="AUSF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T15:33:30Z\n\tcommit hash:     048e447a\n\tcommit time:     2021-01-30T15:36:12Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=AUSF
+time="2021-05-20T15:34:25Z" level=info msg="AUSF Log level is set to [info] level" category=Init component=AUSF
+time="2021-05-20T15:34:25Z" level=info msg="config version [1.0.0]" category=CFG component=AUSF
+time="2021-05-20T15:34:25Z" level=info msg="Server started" category=Init component=AUSF
+time="2021-05-20T15:34:25Z" level=info msg="ausfconfig Info: Version[1.0.0] Description[AUSF initial local configuration]\n" category=Init component=AUSF
+time="2021-05-20T15:37:15Z" level=info msg="Terminating AUSF..." category=Init component=AUSF
+time="2021-05-20T15:37:15Z" level=info msg="Send Deregister NFInstance" category=App component=AUSF
+time="2021-05-20T15:37:16Z" level=info msg="Deregister from NRF successfully" category=Init component=AUSF
+time="2021-05-20T15:37:16Z" level=info msg="AUSF terminated" category=Init component=AUSF
+time="2021-05-20T15:37:38Z" level=info msg="AUSF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T15:33:30Z\n\tcommit hash:     048e447a\n\tcommit time:     2021-01-30T15:36:12Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=AUSF
+time="2021-05-20T15:37:38Z" level=info msg="AUSF Log level is set to [info] level" category=Init component=AUSF
+time="2021-05-20T15:37:38Z" level=info msg="config version [1.0.0]" category=CFG component=AUSF
+time="2021-05-20T15:37:38Z" level=info msg="Server started" category=Init component=AUSF
+time="2021-05-20T15:37:38Z" level=info msg="ausfconfig Info: Version[1.0.0] Description[AUSF initial local configuration]\n" category=Init component=AUSF
+time="2021-05-20T15:43:02Z" level=info msg=HandleUeAuthPostRequest category=UeAuthPost component=AUSF
+time="2021-05-20T15:43:02Z" level=info msg="Serving network authorized" category=UeAuthPost component=AUSF
+time="2021-05-20T15:43:02Z" level=info msg="403 Forbidden" category=UeAuthPost component=AUSF
+time="2021-05-20T15:43:02Z" level=info msg="| 500 |       127.0.0.1 | POST    | /nausf-auth/v1/ue-authentications | " category=GIN component=AUSF
+time="2021-05-20T15:45:05Z" level=info msg=HandleUeAuthPostRequest category=UeAuthPost component=AUSF
+time="2021-05-20T15:45:05Z" level=info msg="Serving network authorized" category=UeAuthPost component=AUSF
+time="2021-05-20T15:45:05Z" level=info msg="403 Forbidden" category=UeAuthPost component=AUSF
+time="2021-05-20T15:45:05Z" level=info msg="| 500 |       127.0.0.1 | POST    | /nausf-auth/v1/ue-authentications | " category=GIN component=AUSF
+time="2021-05-20T15:48:27Z" level=info msg=HandleUeAuthPostRequest category=UeAuthPost component=AUSF
+time="2021-05-20T15:48:27Z" level=info msg="Serving network authorized" category=UeAuthPost component=AUSF
+time="2021-05-20T15:48:27Z" level=info msg="403 Forbidden" category=UeAuthPost component=AUSF
+time="2021-05-20T15:48:27Z" level=info msg="| 500 |       127.0.0.1 | POST    | /nausf-auth/v1/ue-authentications | " category=GIN component=AUSF
+time="2021-05-20T15:48:49Z" level=info msg="Terminating AUSF..." category=Init component=AUSF
+time="2021-05-20T15:48:49Z" level=info msg="Send Deregister NFInstance" category=App component=AUSF
+time="2021-05-20T15:48:50Z" level=info msg="Deregister from NRF successfully" category=Init component=AUSF
+time="2021-05-20T15:48:50Z" level=info msg="AUSF terminated" category=Init component=AUSF
+time="2021-05-20T15:54:06Z" level=info msg="AUSF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T15:33:30Z\n\tcommit hash:     048e447a\n\tcommit time:     2021-01-30T15:36:12Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=AUSF
+time="2021-05-20T15:54:06Z" level=info msg="AUSF Log level is set to [info] level" category=Init component=AUSF
+time="2021-05-20T15:54:06Z" level=info msg="config version [1.0.0]" category=CFG component=AUSF
+time="2021-05-20T15:54:06Z" level=info msg="Server started" category=Init component=AUSF
+time="2021-05-20T15:54:06Z" level=info msg="ausfconfig Info: Version[1.0.0] Description[AUSF initial local configuration]\n" category=Init component=AUSF
+time="2021-05-20T15:55:23Z" level=info msg=HandleUeAuthPostRequest category=UeAuthPost component=AUSF
+time="2021-05-20T15:55:23Z" level=info msg="Serving network authorized" category=UeAuthPost component=AUSF
+time="2021-05-20T15:55:23Z" level=info msg="Add SuciSupiPair (suci-0-208-93-0000-0-0-0000000003, imsi-208930000000003) to map.\n" category=UeAuthPost component=AUSF
+time="2021-05-20T15:55:23Z" level=info msg="Use 5G AKA auth method" category=UeAuthPost component=AUSF
+time="2021-05-20T15:55:23Z" level=info msg="XresStar = 3562376235333933373435336431313465333063356430663761353066313438\n" category=5gAkaAuth component=AUSF
+time="2021-05-20T15:55:23Z" level=info msg="| 201 |       127.0.0.1 | POST    | /nausf-auth/v1/ue-authentications | " category=GIN component=AUSF
+time="2021-05-20T15:55:23Z" level=info msg=Auth5gAkaComfirmRequest category=5gAkaAuth component=AUSF
+time="2021-05-20T15:55:23Z" level=info msg="res*: 3562376235333933373435336431313465333063356430663761353066313438\nXres*: 3562376235333933373435336431313465333063356430663761353066313438\n" category=5gAkaAuth component=AUSF
+time="2021-05-20T15:55:23Z" level=info msg="5G AKA confirmation succeeded" category=5gAkaAuth component=AUSF
+time="2021-05-20T15:55:23Z" level=info msg="| 200 |       127.0.0.1 | PUT     | /nausf-auth/v1/ue-authentications/suci-0-208-93-0000-0-0-0000000003/5g-aka-confirmation | " category=GIN component=AUSF
+time="2021-05-20T15:55:45Z" level=info msg="Terminating AUSF..." category=Init component=AUSF
+time="2021-05-20T15:55:45Z" level=info msg="Send Deregister NFInstance" category=App component=AUSF
+time="2021-05-20T15:55:46Z" level=info msg="Deregister from NRF successfully" category=Init component=AUSF
+time="2021-05-20T15:55:46Z" level=info msg="AUSF terminated" category=Init component=AUSF

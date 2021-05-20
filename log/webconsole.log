@@ -1,0 +1,17 @@
+time="2021-05-20T15:54:17Z" level=info msg=webui category=App component=WebUI
+time="2021-05-20T15:54:17Z" level=info msg="webconsole version:  \n\tNot specify ldflags (which link version) during go build\n\tgo version: go1.14.4 linux/amd64" category=App component=WebUI
+time="2021-05-20T15:54:17Z" level=warning msg="Webconsole config without log level setting!!!" category=Init component=WebUI
+time="2021-05-20T15:54:17Z" level=info msg="Server started" category=Init component=WebUI
+time="2021-05-20T15:54:34Z" level=info msg="| 200 |    192.168.56.1 | GET     | / | " category=GIN component=WebUI
+time="2021-05-20T15:54:34Z" level=info msg="| 200 |    192.168.56.1 | GET     | /static/js/main.20785ce6.js | " category=GIN component=WebUI
+time="2021-05-20T15:54:35Z" level=info msg="| 200 |    192.168.56.1 | GET     | /static/media/free5gc_logo.adcdb325.png | " category=GIN component=WebUI
+time="2021-05-20T15:54:35Z" level=info msg="| 200 |    192.168.56.1 | GET     | /favicon.ico | " category=GIN component=WebUI
+time="2021-05-20T15:54:44Z" level=info msg="| 200 |    192.168.56.1 | GET     | /static/media/Pe-icon-7-stroke.b38ef310.woff | " category=GIN component=WebUI
+time="2021-05-20T15:54:44Z" level=info msg="Get Registered UE Context" category=WebUI component=WebUI
+time="2021-05-20T15:54:44Z" level=info msg="| 200 |    192.168.56.1 | GET     | /api/registered-ue-context | " category=GIN component=WebUI
+time="2021-05-20T15:54:50Z" level=info msg="Get All Subscribers List" category=WebUI component=WebUI
+time="2021-05-20T15:54:50Z" level=info msg="| 200 |    192.168.56.1 | GET     | /api/subscriber | " category=GIN component=WebUI
+time="2021-05-20T15:55:06Z" level=info msg="Post One Subscriber Data" category=WebUI component=WebUI
+time="2021-05-20T15:55:06Z" level=info msg="| 201 |    192.168.56.1 | POST    | /api/subscriber/imsi-208930000000003/20893 | " category=GIN component=WebUI
+time="2021-05-20T15:55:06Z" level=info msg="Get All Subscribers List" category=WebUI component=WebUI
+time="2021-05-20T15:55:06Z" level=info msg="| 200 |    192.168.56.1 | GET     | /api/subscriber | " category=GIN component=WebUI

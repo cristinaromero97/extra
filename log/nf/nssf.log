@@ -1,0 +1,58 @@
+time="2021-05-20T15:19:47Z" level=info msg="NSSF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T14:47:57Z\n\tcommit hash:     51759368\n\tcommit time:     2021-01-30T16:03:22Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=NSSF
+time="2021-05-20T15:19:47Z" level=info msg="NSSF Log level is set to [info] level" category=Init component=NSSF
+time="2021-05-20T15:19:47Z" level=info msg="config version [1.0.0]" category=CFG component=NSSF
+time="2021-05-20T15:19:47Z" level=info msg="Server started" category=Init component=NSSF
+time="2021-05-20T15:21:49Z" level=info msg="Terminating NSSF..." category=Init component=NSSF
+time="2021-05-20T15:21:49Z" level=info msg="Send Deregister NFInstance" category=App component=NSSF
+time="2021-05-20T15:21:50Z" level=info msg="Deregister from NRF successfully" category=Init component=NSSF
+time="2021-05-20T15:21:50Z" level=info msg="NSSF terminated" category=Init component=NSSF
+time="2021-05-20T15:22:36Z" level=info msg="NSSF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T14:47:57Z\n\tcommit hash:     51759368\n\tcommit time:     2021-01-30T16:03:22Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=NSSF
+time="2021-05-20T15:22:36Z" level=info msg="NSSF Log level is set to [info] level" category=Init component=NSSF
+time="2021-05-20T15:22:36Z" level=info msg="config version [1.0.0]" category=CFG component=NSSF
+time="2021-05-20T15:22:36Z" level=info msg="Server started" category=Init component=NSSF
+time="2021-05-20T15:23:38Z" level=info msg="Terminating NSSF..." category=Init component=NSSF
+time="2021-05-20T15:23:38Z" level=info msg="Send Deregister NFInstance" category=App component=NSSF
+time="2021-05-20T15:23:39Z" level=info msg="Deregister from NRF successfully" category=Init component=NSSF
+time="2021-05-20T15:23:39Z" level=info msg="NSSF terminated" category=Init component=NSSF
+time="2021-05-20T15:30:15Z" level=info msg="NSSF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T14:47:57Z\n\tcommit hash:     51759368\n\tcommit time:     2021-01-30T16:03:22Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=NSSF
+time="2021-05-20T15:30:15Z" level=info msg="NSSF Log level is set to [info] level" category=Init component=NSSF
+time="2021-05-20T15:30:15Z" level=info msg="config version [1.0.0]" category=CFG component=NSSF
+time="2021-05-20T15:30:15Z" level=info msg="Server started" category=Init component=NSSF
+time="2021-05-20T15:30:27Z" level=info msg="Terminating NSSF..." category=Init component=NSSF
+time="2021-05-20T15:30:27Z" level=info msg="Send Deregister NFInstance" category=App component=NSSF
+time="2021-05-20T15:30:28Z" level=info msg="Deregister from NRF successfully" category=Init component=NSSF
+time="2021-05-20T15:30:28Z" level=info msg="NSSF terminated" category=Init component=NSSF
+time="2021-05-20T15:33:08Z" level=info msg="NSSF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T14:47:57Z\n\tcommit hash:     51759368\n\tcommit time:     2021-01-30T16:03:22Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=NSSF
+time="2021-05-20T15:33:08Z" level=info msg="NSSF Log level is set to [info] level" category=Init component=NSSF
+time="2021-05-20T15:33:08Z" level=info msg="config version [1.0.0]" category=CFG component=NSSF
+time="2021-05-20T15:33:08Z" level=info msg="Server started" category=Init component=NSSF
+time="2021-05-20T15:33:19Z" level=info msg="Terminating NSSF..." category=Init component=NSSF
+time="2021-05-20T15:33:19Z" level=info msg="Send Deregister NFInstance" category=App component=NSSF
+time="2021-05-20T15:33:20Z" level=info msg="Deregister from NRF successfully" category=Init component=NSSF
+time="2021-05-20T15:33:20Z" level=info msg="NSSF terminated" category=Init component=NSSF
+time="2021-05-20T15:34:24Z" level=info msg="NSSF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T15:33:36Z\n\tcommit hash:     51759368\n\tcommit time:     2021-01-30T16:03:22Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=NSSF
+time="2021-05-20T15:34:24Z" level=info msg="NSSF Log level is set to [info] level" category=Init component=NSSF
+time="2021-05-20T15:34:24Z" level=info msg="config version [1.0.0]" category=CFG component=NSSF
+time="2021-05-20T15:34:24Z" level=info msg="Server started" category=Init component=NSSF
+time="2021-05-20T15:37:15Z" level=info msg="Terminating NSSF..." category=Init component=NSSF
+time="2021-05-20T15:37:15Z" level=info msg="Send Deregister NFInstance" category=App component=NSSF
+time="2021-05-20T15:37:16Z" level=info msg="Deregister from NRF successfully" category=Init component=NSSF
+time="2021-05-20T15:37:16Z" level=info msg="NSSF terminated" category=Init component=NSSF
+time="2021-05-20T15:37:37Z" level=info msg="NSSF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T15:33:36Z\n\tcommit hash:     51759368\n\tcommit time:     2021-01-30T16:03:22Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=NSSF
+time="2021-05-20T15:37:37Z" level=info msg="NSSF Log level is set to [info] level" category=Init component=NSSF
+time="2021-05-20T15:37:37Z" level=info msg="config version [1.0.0]" category=CFG component=NSSF
+time="2021-05-20T15:37:37Z" level=info msg="Server started" category=Init component=NSSF
+time="2021-05-20T15:48:49Z" level=info msg="Terminating NSSF..." category=Init component=NSSF
+time="2021-05-20T15:48:49Z" level=info msg="Send Deregister NFInstance" category=App component=NSSF
+time="2021-05-20T15:48:50Z" level=info msg="Deregister from NRF successfully" category=Init component=NSSF
+time="2021-05-20T15:48:50Z" level=info msg="NSSF terminated" category=Init component=NSSF
+time="2021-05-20T15:54:05Z" level=info msg="NSSF version:  \n\tfree5GC version: v3.0.5-4-g5c4280f\n\tbuild time:      2021-05-20T15:33:36Z\n\tcommit hash:     51759368\n\tcommit time:     2021-01-30T16:03:22Z\n\tgo version:      go1.14.4 linux/amd64" category=App component=NSSF
+time="2021-05-20T15:54:05Z" level=info msg="NSSF Log level is set to [info] level" category=Init component=NSSF
+time="2021-05-20T15:54:05Z" level=info msg="config version [1.0.0]" category=CFG component=NSSF
+time="2021-05-20T15:54:05Z" level=info msg="Server started" category=Init component=NSSF
+time="2021-05-20T15:55:23Z" level=info msg="Handle NSSelectionGet" category=NsSelect component=NSSF
+time="2021-05-20T15:55:23Z" level=info msg="| 200 |       127.0.0.1 | GET     | /nnssf-nsselection/v1/network-slice-information?nf-id=7c5b8f7c-9d59-4819-a6b6-030f552dd2ca&nf-type=AMF&slice-info-request-for-pdu-session=%7B%22sNssai%22%3A%7B%22sst%22%3A1%2C%22sd%22%3A%22010203%22%7D%2C%22roamingIndication%22%3A%22NON_ROAMING%22%7D | " category=GIN component=NSSF
+time="2021-05-20T15:55:45Z" level=info msg="Terminating NSSF..." category=Init component=NSSF
+time="2021-05-20T15:55:45Z" level=info msg="Send Deregister NFInstance" category=App component=NSSF
+time="2021-05-20T15:55:46Z" level=info msg="Deregister from NRF successfully" category=Init component=NSSF
+time="2021-05-20T15:55:46Z" level=info msg="NSSF terminated" category=Init component=NSSF
